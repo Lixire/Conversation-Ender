@@ -1,16 +1,8 @@
-a.homepage:link, a.homepage:visited {
-  padding: 1px 10px 1px 10px;
-  color: #fff;
-  background: #555;
-  border-radius: 3px;
-  border: 1px outset rgba(50,50,50,.5);
-  font-family: georgia, serif;
-  font-size: 14px;
-  font-style: italic;
-  text-decoration: none;
+textarea{
+    resize: none;
+    background-color: azure;
 }
-
-a.homepage:hover, a.homepage:focus, a.homepage:active {
-  background-color: #666;
-  font-style: normal;
+.header{
+    font-family: "Georgia", cursive;
+    font-size: larger;
 }
